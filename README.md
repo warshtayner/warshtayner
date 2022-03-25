@@ -1,8 +1,5 @@
 ### Hello world 🌏
 
-https://www.codewars.com/users/warshtayner/badges/largehttps://www.codewars.com/users/warshtayner/badges/large
-
-
 <!--
 **warshtayner/warshtayner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
