@@ -5,7 +5,7 @@
 
 Telegram @warshtayner
 
-[VK - мой акrаунт](https://vk.com/id556556)
+[VK - мой аккаунт](https://vk.com/id556556)
 
 ___
 Мои проекты
