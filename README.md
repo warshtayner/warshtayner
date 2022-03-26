@@ -10,18 +10,18 @@ Telegram @warshtayner
 ___
 Мои проекты
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warshtayner&layout=compact)](https://github.com/warshtayner#:~:text=Repositories,10)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warshtayner&layout=compact)](https://github.com/warshtayner#:~:text=Repositories,10) -->
 
 
-[Titanik](https://github.com/warshtayner/Kaggle_Titanic) - Мой первый опыт на Kaggle
+:ship: [Titanik](https://github.com/warshtayner/Kaggle_Titanic) - Мой первый опыт на Kaggle
 * Несколько версий решений с обработкой данных и машинным обучении
 * работа продолжается
 
-[avito_parser](https://github.com/warshtayner/avito_parser)
+:city_sunset: [avito_parser](https://github.com/warshtayner/avito_parser)
 * Парсинг объявлений с сайта Avito о продаже квартир с составлением БД для дальнейшего анализа
 * В дальнешем будет сервер на базе SQL с этими данными
 
-[jupyter_training](https://github.com/warshtayner/jupyter_training)
+:bar_chart: [jupyter_training](https://github.com/warshtayner/jupyter_training)
 * Экспериментальные тренировочные работы с данными
 
  А также :heavy_exclamation_mark:
