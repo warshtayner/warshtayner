@@ -17,7 +17,7 @@ ___
 * работа продолжается
 
 [avito_parser](https://github.com/warshtayner/avito_parser)
-* Парсинг объявлений с сайта Avito о прадаже квартир с составлением БД для дольнешего анализа
+* Парсинг объявлений с сайта Avito о продаже квартир с составлением БД для дальнейшего анализа
 * В дальнешем будет сервер на базе SQL с этими данными
 
 [jupyter_training](https://github.com/warshtayner/jupyter_training)
