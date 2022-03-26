@@ -1,6 +1,6 @@
 # Hello world 🌏
 ### My name is Sergey
-Telegram @warshtayner\n
+Telegram @warshtayner \n
 [Vk - мой акаунт](https://vk.com/id556556)
 
 
