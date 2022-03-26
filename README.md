@@ -10,6 +10,7 @@ Telegram @warshtayner
 ___
 Мои проекты
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warshtayner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [Titanik](https://github.com/warshtayner/Kaggle_Titanic) - Мой первый опыт на Kaggle
 * Несколько версий решений с обработкой данных и машинным обучении
