@@ -7,7 +7,6 @@
   [![tm](https://telegram.org/favicon.ico)](t.me/warshtayner)
   [![vk](https://vk.com/favicon.ico)](https://vk.com/id556556)
 
-___
 Мои проекты
 ---
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warshtayner&layout=compact)](https://github.com/warshtayner#:~:text=Repositories,10) -->
