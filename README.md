@@ -4,9 +4,7 @@
 :fire:В поисках стажировки:fire:
 
 ## :page_with_curl: [Резюме](https://github.com/warshtayner/warshtayner/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20DS.pdf)
-
 ![tm](https://telegram.org/favicon.ico)  [@warshtayner](t.me/warshtayner)
-
 ![tm](https://vk.com/favicon.ico)  [VK](https://vk.com/id556556)
 
 ___
