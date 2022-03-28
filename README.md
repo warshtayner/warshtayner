@@ -12,7 +12,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warshtayner&layout=compact)](https://github.com/warshtayner#:~:text=Repositories,10) -->
 
 
-:ship: [Titanik](https://github.com/warshtayner/Kaggle_Titanic) - Мой первый опыт на Kaggle top 10%
+:ship: [Titanik](https://github.com/warshtayner/Kaggle_Titanic) - Мой первый опыт на Kaggle __top 10%__
 * Несколько версий решений с обработкой данных и машинным обучении
 * работа продолжается
 
