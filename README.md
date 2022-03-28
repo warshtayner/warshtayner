@@ -1,7 +1,7 @@
 # Hello world 🌏
 ### My name is Sergey
 
-:fire:В поисках стажировки:fire:
+###### В поисках стажировки
 
 ## :page_with_curl: [Резюме](https://github.com/warshtayner/warshtayner/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20DS.pdf)
   [![tm](https://telegram.org/favicon.ico)](https://t.me/warshtayner)
