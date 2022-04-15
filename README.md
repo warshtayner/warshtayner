@@ -19,8 +19,8 @@
 * Парсинг объявлений с сайта Avito о продаже квартир с составлением БД для дальнейшего анализа
 * В дальнешем будет сервер на базе SQL с этими данными
 
-:bar_chart: [jupyter_training](https://github.com/warshtayner/jupyter_training)
-* Экспериментальные тренировочные работы с данными
+:bar_chart: [python_ds_school_21](https://github.com/warshtayner/python_ds_school_21)
+* Интенсив по анализу данных с обучением методик обработки данных и методами машинного обучения 
 
  А также :heavy_exclamation_mark:
  ---
