@@ -11,9 +11,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warshtayner&layout=compact)](https://github.com/warshtayner#:~:text=Repositories,10) -->
 
 
-:ship: [Titanik](https://github.com/warshtayner/Kaggle_Titanic) - Мой первый опыт на Kaggle - **top 10%**
+:ship: [Titanik](https://github.com/warshtayner/Kaggle_Titanic) - Мой первый опыт на Kaggle
 * Несколько версий решений с обработкой данных и машинным обучении
-* работа продолжается
 
 :city_sunset: [avito_parser](https://github.com/warshtayner/avito_parser)
 * Парсинг объявлений с сайта Avito о продаже квартир с составлением БД для дальнейшего анализа
