@@ -12,7 +12,7 @@
 
 
 :wedding: [Housing_Prices](https://github.com/warshtayner/Housing_Prices_for_Kaggle/blob/main/first_glance.ipynb) - соревнование на Kaggle по предсказанию стоимости
-* Систематизированное функциональное
+* Систематизированное, функциональное  :heavy_exclamation_mark:TOP => 1%
 
 :ship: [Titanik](https://github.com/warshtayner/Kaggle_Titanic) - Мой первый опыт на Kaggle
 * Несколько версий решений с обработкой данных и машинным обучении
