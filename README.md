@@ -14,6 +14,9 @@
 :ship: [Titanik](https://github.com/warshtayner/Kaggle_Titanic) - Мой первый опыт на Kaggle
 * Несколько версий решений с обработкой данных и машинным обучении
 
+:wedding: [Housing_Prices]([https://github.com/warshtayner/Kaggle_Titanic](https://github.com/warshtayner/Housing_Prices_for_Kaggle/blob/main/first_glance.ipynb)) - соревнование на Kaggle по предсказанию стоимости
+* Систематизированное функциональное
+
 :city_sunset: [avito_parser](https://github.com/warshtayner/avito_parser)
 * Парсинг объявлений с сайта Avito о продаже квартир с составлением БД для дальнейшего анализа
 * В дальнешем будет сервер на базе SQL с этими данными
@@ -21,7 +24,7 @@
 :bar_chart: [python_ds_school_21](https://github.com/warshtayner/python_ds_school_21)
 * Интенсив по анализу данных с обучением методик обработки данных и методами машинного обучения 
 
- А также :heavy_exclamation_mark:
+ А также чистое программирование :heavy_exclamation_mark:
  ---
   * [Philosophers](https://github.com/warshtayner/Philosophers) решение задачи обедающих философов, изучение многопоточного программирования
   * [push_swap](https://github.com/warshtayner/push_swap) Изучение алгоритмов сортировки элементов по сложным правилам
