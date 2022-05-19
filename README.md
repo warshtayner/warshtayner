@@ -14,7 +14,7 @@
 :ship: [Titanik](https://github.com/warshtayner/Kaggle_Titanic) - Мой первый опыт на Kaggle
 * Несколько версий решений с обработкой данных и машинным обучении
 
-:wedding: [Housing_Prices]([https://github.com/warshtayner/Kaggle_Titanic](https://github.com/warshtayner/Housing_Prices_for_Kaggle/blob/main/first_glance.ipynb)) - соревнование на Kaggle по предсказанию стоимости
+:wedding: [Housing_Prices](https://github.com/warshtayner/Housing_Prices_for_Kaggle/blob/main/first_glance.ipynb) - соревнование на Kaggle по предсказанию стоимости
 * Систематизированное функциональное
 
 :city_sunset: [avito_parser](https://github.com/warshtayner/avito_parser)
