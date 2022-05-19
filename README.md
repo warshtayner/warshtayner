@@ -11,11 +11,11 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warshtayner&layout=compact)](https://github.com/warshtayner#:~:text=Repositories,10) -->
 
 
-:ship: [Titanik](https://github.com/warshtayner/Kaggle_Titanic) - Мой первый опыт на Kaggle
-* Несколько версий решений с обработкой данных и машинным обучении
-
 :wedding: [Housing_Prices](https://github.com/warshtayner/Housing_Prices_for_Kaggle/blob/main/first_glance.ipynb) - соревнование на Kaggle по предсказанию стоимости
 * Систематизированное функциональное
+
+:ship: [Titanik](https://github.com/warshtayner/Kaggle_Titanic) - Мой первый опыт на Kaggle
+* Несколько версий решений с обработкой данных и машинным обучении
 
 :city_sunset: [avito_parser](https://github.com/warshtayner/avito_parser)
 * Парсинг объявлений с сайта Avito о продаже квартир с составлением БД для дальнейшего анализа
