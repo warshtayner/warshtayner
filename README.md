@@ -3,7 +3,7 @@
 
 ##### В поисках стажировки :heavy_exclamation_mark:
 
-## :page_with_curl: [Резюме]([https://github.com/warshtayner/warshtayner/blob/main/%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D0%B2%D0%B8%D1%87%20%D0%A1.%D0%92.%20%20Data%20Scientist.pdf](https://github.com/warshtayner/warshtayner/blob/main/%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D0%B2%D0%B8%D1%87.%D0%A1.%D0%92(CV)_DS_DE.pdf))
+## :page_with_curl: [Резюме](https://github.com/warshtayner/warshtayner/blob/main/%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D0%B2%D0%B8%D1%87.%D0%A1.%D0%92(CV)_DS_DE.pdf)
   [![tm](https://telegram.org/favicon.ico)](https://t.me/warshtayner)
 
 Мои проекты
