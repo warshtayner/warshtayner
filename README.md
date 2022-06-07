@@ -31,7 +31,6 @@
   * [Minishell](https://github.com/warshtayner/Minishell) проект-реализация основного функционала командной оболочки bash
   * [Other](https://github.com/warshtayner/21school_igarg) fractal, printf, ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warshtayner&layout=&card_width=495&theme=radical)<br>
 <!--
 **warshtayner/warshtayner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
