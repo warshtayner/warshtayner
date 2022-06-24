@@ -17,7 +17,7 @@
 :ship: [Titanik](https://github.com/warshtayner/Kaggle_Titanic) - Мой первый опыт на Kaggle
 * Несколько версий решений с обработкой данных и машинным обучении
 
-:city_sunset: [avito_parser](https://github.com/warshtayner/avito_parser/tree/main/old_version)
+:city_sunset: [avito_parser](https://github.com/warshtayner/avito_parser/tree/main/)
 * Парсинг объявлений с сайта Avito о продаже квартир с составлением БД для дальнейшего анализа
 * В дальнешем будет сервер на базе SQL с этими данными
 
